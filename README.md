@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre Completo]!
 
-<!--
-**danicasasyuste/danicasasyuste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando en:
+- [ClimaColab:  Una aplicación meteorológica colaborativa para mejorar la precisión del clima]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🌱 Estoy aprendiendo:
+- **Odoo**
+- **Python**
+- **Flutter**
+
+---
+
+
+### 🤔 Estoy buscando ayuda con:
+- [Área o tema en el que necesitas ayuda]
+- [Ejemplo: "Optimización de bases de datos", "Diseño UX/UI", etc.]
+
+---
+
+### 💬 Pregúntame sobre:
+- [Temas en los que te sientas cómodo respondiendo preguntas]
+- [Ejemplo: "React.js", "Machine Learning", "Fotografía", etc.]
+
+---
+
+### 📫 Cómo contactarme:
+- **Correo electrónico**: [danicasasyuste@gmail.com]
+
