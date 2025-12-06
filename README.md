@@ -2,13 +2,12 @@
 
 ---
 
-### 🔭 Actualmente estoy trabajando en:
+### 🔭 Proyectos:
 - ClimaColab:  Una aplicación meteorológica colaborativa para mejorar la precisión del clima
 
 ---
 
 ### 🌱 Estoy aprendiendo:
-- **Odoo**
 - **Python**
 - **Flutter**
 
